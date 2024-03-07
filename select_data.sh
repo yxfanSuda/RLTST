@@ -3,10 +3,10 @@
 train_mol_file="./Data/Molweni/train.json"
 eval_mol_file="./Data/Molweni/dev.json"
 test_mol_file="./Data/Molweni/test.json"
-train_hu_file='./Data/Hu_Dataset/Hu_Link_Dir/debug.json'
-train_ou5_file='./Data/Ou_Dataset/Ou5_Link_Dir/debug.json'
-train_ou10_file='./Data/Ou_Dataset/Ou10_Link_Dir/debug.json'
-train_ou15_file='./Data/Ou_Dataset/Ou15_Link_Dir/debug.json'
+train_hu_file='./Data/Hu_Dataset/Hu_Link_Dir/train.json'
+train_ou5_file='./Data/Ou_Dataset/Ou5_Link_Dir/train.json'
+train_ou10_file='./Data/Ou_Dataset/Ou10_Link_Dir/train.json'
+train_ou15_file='./Data/Ou_Dataset/Ou15_Link_Dir/train.json'
 hu_selected_data_file='./Data/Hu_Dataset/Hu_Link_Dir/selectedData.json'
 ou5_selected_data_file='./Data/Ou_Dataset/Ou5_Link_Dir/selectedData.json'
 ou10_selected_data_file='./Data/Ou_Dataset/Ou10_Link_Dir/selectedData.json'
