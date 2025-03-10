@@ -9,7 +9,7 @@ train_ou10_file='./Data/Ou_Dataset/Ou10_Link_Dir/selectedData.json'
 train_ou15_file='./Data/Ou_Dataset/Ou15_Link_Dir/selectedData.json'
 dataset_dir="./selected_dataset_dir"
 model_dir="./model_dir"
-seed=65534 # Three independent runs with different random seeds (65534, 42, and 65535)are conducted and he mean performance is reported.
+seed=65534 # Three independent runs with different random seeds (65534, 42, and 65535)are conducted and the mean performance is reported.
 
 if [ ! -d "${model_dir}" ]; then mkdir -p "${model_dir}"; fi
 
